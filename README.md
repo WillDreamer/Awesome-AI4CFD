@@ -41,6 +41,8 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/pdebench/PDEBench) <br> [**PDEBench**](https://arxiv.org/abs/2210.07182) <br> | NeurIPS 2022 | 2022-10-13 | [GitHub](https://github.com/pdebench/PDEBench) | Local Demo |
 |![Star](https://img.shields.io/github/stars/lululxvi/deepxde.svg?style=social&label=Star) <br> [**DeepXDE: A Deep Learning Library for Solving Differential Equations**](https://epubs.siam.org/doi/pdf/10.1137/19M1274067) <br> | SIAM Review | 2021-01 | [GitHub](https://github.com/lululxvi/deepxde) | - |
+|![Star](https://img.shields.io/github/stars/Mohamedelrefaie/DrivAerNet.svg?style=social&label=Star) <br> [**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design and Graph-Based Drag Prediction**](https://arxiv.org/abs/2403.08055) <br> | Arxiv | 2024-05 | [GitHub](https://github.com/Mohamedelrefaie/DrivAerNet) | - |
+
 
 ---
 
