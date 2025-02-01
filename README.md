@@ -42,6 +42,8 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |![Star](https://img.shields.io/github/stars/pdebench/PDEBench) <br> [**PDEBench**](https://arxiv.org/abs/2210.07182) <br> | NeurIPS 2022 | 2022-10-13 | [GitHub](https://github.com/pdebench/PDEBench) | Local Demo |
 |![Star](https://img.shields.io/github/stars/lululxvi/deepxde.svg?style=social&label=Star) <br> [**DeepXDE: A Deep Learning Library for Solving Differential Equations**](https://epubs.siam.org/doi/pdf/10.1137/19M1274067) <br> | SIAM Review | 2021-01 | [GitHub](https://github.com/lululxvi/deepxde) | - |
 |![Star](https://img.shields.io/github/stars/Mohamedelrefaie/DrivAerNet.svg?style=social&label=Star) <br> [**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design and Graph-Based Drag Prediction**](https://arxiv.org/abs/2403.08055) <br> | Arxiv | 2024-05 | [GitHub](https://github.com/Mohamedelrefaie/DrivAerNet) | - |
+|![Star](https://img.shields.io/github/stars/PolymathicAI/the_well.svg?style=social&label=Star) <br> [**The Well: a Large-Scale Collection of Diverse Physics Simulations for Machine Learning**](https://arxiv.org/abs/2412.00568) <br> | NeurIPS 2024 DB Track | 2024-12 | [GitHub](https://github.com/PolymathicAI/the_well) | - |
+
 
 
 ---
@@ -68,7 +70,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |![Star](https://img.shields.io/github/stars/jaggbow/magnet.svg?style=social&label=Star) <br> [**MAgNet:Mesh Agnostic Neural PDE Solver**](https://arxiv.org/pdf/2210.05495.pdf)<br> | NeurIPS 2022 | 2023-03-20 | [Github](https://github.com/jaggbow/magnet) | Local Demo|
 |<br>[**CARE:Modeling Interacting Dynamics Under Temporal Environmental Variation**](https://openreview.net/attachment?id=lwg3ohkFRv&name=pdf)<br> | NeurIPS 2023 | 2023-12-15 | - | - |
 |<br>[**Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer**](https://openreview.net/forum?id=90yw2uM6J5)<br> | ICLR 2024 | 2024-03-26 | [Github](https://github.com/yuyudeep/hcmt) | - |
-|<br>[**Text2PDE: Latent Diffusion Models for Accessible Physics Simulation**](https://openreview.net/forum?id=Nb3a8aUGfj)<br> | ICLR 2025 | 2024-10-02 | [Github](https://github.com/anthonyzhou-1/ldm_pdes) | - |
+|![Star](https://img.shields.io/github/stars/anthonyzhou-1/ldm_pdes.svg?style=social&label=Star)<br>[**Text2PDE: Latent Diffusion Models for Accessible Physics Simulation**](https://openreview.net/forum?id=Nb3a8aUGfj)<br> | ICLR 2025 | 2024-10-02 | [Github](https://github.com/anthonyzhou-1/ldm_pdes) | - |
 
 #### On Lagrangian Particle
 
