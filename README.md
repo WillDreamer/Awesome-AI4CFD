@@ -236,7 +236,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 ## Contributing
 
-📮📮📮 If you want to add your model in our leaderboards, please feel free to fork and update your work in the table. You can also email **<wang.hx@stu.pku.edu.cn>**. We will response to your request as soon as possible!
+📮📮📮 If you want to add your model in our leaderboards, please feel free to fork and update your work in the table. You can also email **<whx@cs.ucla.edu>**. We will response to your request as soon as possible!
 
 
 
