@@ -68,6 +68,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |![Star](https://img.shields.io/github/stars/jaggbow/magnet.svg?style=social&label=Star) <br> [**MAgNet:Mesh Agnostic Neural PDE Solver**](https://arxiv.org/pdf/2210.05495.pdf)<br> | NeurIPS 2022 | 2023-03-20 | [Github](https://github.com/jaggbow/magnet) | Local Demo|
 |<br>[**CARE:Modeling Interacting Dynamics Under Temporal Environmental Variation**](https://openreview.net/attachment?id=lwg3ohkFRv&name=pdf)<br> | NeurIPS 2023 | 2023-12-15 | - | - |
 |<br>[**Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer**](https://openreview.net/forum?id=90yw2uM6J5)<br> | ICLR 2024 | 2024-03-26 | [Github](https://github.com/yuyudeep/hcmt) | - |
+|<br>[**Text2PDE: Latent Diffusion Models for Accessible Physics Simulation**](https://openreview.net/forum?id=Nb3a8aUGfj)<br> | ICLR 2025 | 2024-10-02 | [Github](https://github.com/anthonyzhou-1/ldm_pdes) | - |
 
 #### On Lagrangian Particle
 
