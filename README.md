@@ -2,6 +2,7 @@
 
 <img src="./images/main.png" width="96%" height="96%">
 
+## [Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey](https://arxiv.org/abs/2408.12171)
 This review explores the recent advancements in enhancing Computational Fluid Dynamics (CFD) through Machine Learning (ML). The literature is systematically classified into three primary categories: Data-driven Surrogates, Physics-Informed Surrogates, and ML-assisted Numerical Solutions. Subsequently, we highlight applications of ML for CFD in critical scientific and engineering disciplines, including aerodynamics, atmospheric science, and biofluid dynamics, among others.
 
 <font size=6><center><b> Awesome-AI4CFD </b> </center></font>
@@ -231,6 +232,23 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |<br> [**Low-temperature plasma simulation based on physics-informed neural networks.**]([https://](https://arxiv.org/pdf/2206.15294)) <br> |  Phys. Fluids |  2022 | - | - |
 |<br> [**Fourier neural operator for plasma modelling**]([https://](https://arxiv.org/pdf/2302.06542.pdf)) <br> |  arXiv. |  2023 | - | - |
+
+---
+
+## Citation
+
+This project has been led by researchers from Peking University, University of California, Los Angeles, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, University of Maryland, College Park, Stanford University, Westlake University, Microsoft AI4Science.
+
+If you find this project useful for your research, please consider citing
+
+```
+@article{wang2024recent,
+  title={Recent advances on machine learning for computational fluid dynamics: A survey},
+  author={Wang, Haixin and Cao, Yadi and Huang, Zijie and Liu, Yuxuan and Hu, Peiyan and Luo, Xiao and Song, Zezheng and Zhao, Wanjia and Liu, Jilin and Sun, Jinan and others},
+  journal={arXiv preprint arXiv:2408.12171},
+  year={2024}
+}
+```
 
 ---
 
