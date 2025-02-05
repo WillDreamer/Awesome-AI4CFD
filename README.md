@@ -235,6 +235,15 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 ---
 
+## Foundation Model
+
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/camlab-ethz/poseidon.svg?style=social&label=Star)<br> [**Poseidon: Efficient Foundation Models for PDEs**](https://arxiv.org/abs/2405.19101) <br> | NeurIPS 2024 | 2024 | [Github](https://github.com/camlab-ethz/poseidon) | - |
+|<br> [**Self-supervised Pretraining for Partial Differential Equations**](https://arxiv.org/abs/2407.06209) <br> | Arxiv 2024 | 2024 | - | - |
+
+---
+
 ## Citation
 
 This project has been led by researchers from Peking University, University of California, Los Angeles, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, University of Maryland, College Park, Stanford University, Westlake University, Microsoft AI4Science.
