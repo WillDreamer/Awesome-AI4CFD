@@ -234,8 +234,9 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |<br> [**Fourier neural operator for plasma modelling**]([https://](https://arxiv.org/pdf/2302.06542.pdf)) <br> |  arXiv. |  2023 | - | - |
 
 ---
+## Frontier Models
 
-## Foundation Model
+### Foundation Model
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -243,6 +244,15 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |<br> [**Self-supervised Pretraining for Partial Differential Equations**](https://arxiv.org/abs/2407.06209) <br> | Arxiv 2024 | 2024 | - | - |
 
 ---
+### Generative Model
+
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/jhhuangchloe/DiffusionPDE.svg?style=social&label=Star)<br> [**DiffusionPDE: Generative PDE-Solving under Partial Observation**]([https://arxiv.org/abs/2405.19101](https://neurips.cc/virtual/2024/poster/92980)) <br> | NeurIPS 2024 | 2024 | [Github](https://github.com/jhhuangchloe/DiffusionPDE) | - |
+
+---
+
+
 
 ## Citation
 
