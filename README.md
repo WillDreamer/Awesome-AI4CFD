@@ -31,6 +31,9 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
     - [Atmosphere \& Ocean Science](#atmosphere--ocean-science)
     - [Biology Fluid](#biology-fluid)
     - [Plasma](#plasma)
+  - [Frontier Models](#frontier-models)
+    - [Foundation Models](#foundation-models)
+    - [Generative Models](#generative-models)   
   - [Contributing](#contributing)
 
 ---
@@ -236,7 +239,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 ---
 ## Frontier Models
 
-### Foundation Model
+### Foundation Models
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -244,7 +247,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |<br> [**Self-supervised Pretraining for Partial Differential Equations**](https://arxiv.org/abs/2407.06209) <br> | Arxiv 2024 | 2024 | - | - |
 
 ---
-### Generative Model
+### Generative Models
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
