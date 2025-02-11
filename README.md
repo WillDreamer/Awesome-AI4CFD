@@ -251,7 +251,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|![Star](https://img.shields.io/github/stars/jhhuangchloe/DiffusionPDE.svg?style=social&label=Star)<br> [**DiffusionPDE: Generative PDE-Solving under Partial Observation**]((https://neurips.cc/virtual/2024/poster/92980)) <br> | NeurIPS 2024 | 2024 | [Github](https://github.com/jhhuangchloe/DiffusionPDE) | - |
+|![Star](https://img.shields.io/github/stars/jhhuangchloe/DiffusionPDE.svg?style=social&label=Star)<br> [**DiffusionPDE: Generative PDE-Solving under Partial Observation**](https://neurips.cc/virtual/2024/poster/92980) <br> | NeurIPS 2024 | 2024 | [Github](https://github.com/jhhuangchloe/DiffusionPDE) | - |
 
 ---
 
