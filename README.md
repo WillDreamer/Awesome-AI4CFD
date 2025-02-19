@@ -1,5 +1,9 @@
 # Awesome-AI4CFD
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/lupantech/dl4math) 
+[![Survey](https://img.shields.io/badge/Survey-AI4CFD-blue)](https://github.com/WillDreamer/Awesome-AI4CFD) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 <img src="./images/main.png" width="96%" height="96%">
 
 ## [Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey](https://arxiv.org/abs/2408.12171)
