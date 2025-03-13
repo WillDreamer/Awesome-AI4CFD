@@ -237,8 +237,8 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Low-temperature plasma simulation based on physics-informed neural networks**](https://arxiv.org/pdf/2206.15294)) <br> |  Phys. Fluids |  2022 | - | - |
-| [**Fourier neural operator for plasma modelling**](https://arxiv.org/pdf/2302.06542.pdf)) <br> |  arXiv |  2023 | - | - |
+| [**Low-temperature plasma simulation based on physics-informed neural networks**](https://arxiv.org/pdf/2206.15294) <br> |  Phys. Fluids |  2022 | - | - |
+| [**Fourier neural operator for plasma modelling**](https://arxiv.org/pdf/2302.06542.pdf) <br> |  arXiv |  2023 | - | - |
 
 ---
 ## Frontier Models
