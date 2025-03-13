@@ -159,11 +159,11 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/google/data-driven-discretization-1d) <br> [**Learning data-driven discretizations for partial differential equations**](https://arxiv.org/abs/1808.04930) <br>| PNAS | 2019 | [Github](https://github.com/google/data-driven-discretization-1d) | - |
-| <br> [**Machine learning accelerated computational fluid dynamics**](https://arxiv.org/abs/2102.01010) <br>| PNAS | 2021 | - | - |
+| [**Machine learning accelerated computational fluid dynamics**](https://arxiv.org/abs/2102.01010) <br>| PNAS | 2021 | - | - |
 | ![Star](https://img.shields.io/github/stars/tum-pbs/differentiable-piso.svg?style=social&label=Star) <br> [**Learned turbulence modelling with differentiable fluid solvers: physics-based loss functions and optimisation horizons**](https://arxiv.org/abs/2202.06988) <br>| JFM(Journal of Fluid Mechanics) | 2022 | [Github](https://github.com/tum-pbs/differentiable-piso) | - |
 | [**Machine learning design of volume of fluid schemes for compressible flows**](https://www.sciencedirect.com/science/article/abs/pii/S0021999120300498) <br>| JCP(Journal of Computational Physics) | 2020 | - | - |
-| ![Star](https://img.shields.io/github/stars/tianhanz/DNN-Models-for-Chemical-Kinetics.svg?style=social&label=Star) <br> [**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**](https://arxiv.org/abs/2201.03549) <br>|  | 2022 | [Github](https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics) | - |
-| ![Star](https://img.shields.io/github/stars/Edward-Sun/TSM-PDE.svg?style=social&label=Star) <br> [**A neural pde solver with temporal stencil modeling**](https://arxiv.org/abs/2302.08105) <br>| arXiv. | 2023 | [Github](https://github.com/Edward-Sun/TSM-PDE) | - |
+| ![Star](https://img.shields.io/github/stars/tianhanz/DNN-Models-for-Chemical-Kinetics.svg?style=social&label=Star) <br> [**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**](https://arxiv.org/abs/2201.03549) <br>| arXiv | 2022 | [Github](https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics) | - |
+| ![Star](https://img.shields.io/github/stars/Edward-Sun/TSM-PDE.svg?style=social&label=Star) <br> [**A neural pde solver with temporal stencil modeling**](https://arxiv.org/abs/2302.08105) <br>| arXiv | 2023 | [Github](https://github.com/Edward-Sun/TSM-PDE) | - |
 | [**Scalable projection-based RO models for large multiscale fluid systems**](https://ui.adsabs.harvard.edu/link_gateway/2023AIAAJ..61.4499W/PUB_HTML) <br>| AIAA | 2023 | - | - |
 
 ---
@@ -205,7 +205,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|![Star](https://img.shields.io/github/stars/DENG-MIT/Stiff-PINN)<br> [**Stiff-pinn: Physics-informed neural network for stiff chemical kinetics**]([https:/](https://arxiv.org/pdf/2011.04520)) <br> | The Journal of Physical Chemistry A | 2021 | [Github](https://github.com/DENG-MIT/Stiff-PINN)  | - |
+|![Star](https://img.shields.io/github/stars/DENG-MIT/Stiff-PINN)<br> [**Stiff-pinn: Physics-informed neural network for stiff chemical kinetics**](https://arxiv.org/pdf/2011.04520)) <br> | The Journal of Physical Chemistry A | 2021 | [Github](https://github.com/DENG-MIT/Stiff-PINN)  | - |
 | [**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**](https://arxiv.org/pdf/2201.03549) <br> | Combustion and Flame | 2022 | [Github](https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics) | - |
 
 ---
@@ -237,8 +237,8 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Low-temperature plasma simulation based on physics-informed neural networks**]([https://](https://arxiv.org/pdf/2206.15294)) <br> |  Phys. Fluids |  2022 | - | - |
-| [**Fourier neural operator for plasma modelling**]([https://](https://arxiv.org/pdf/2302.06542.pdf)) <br> |  arXiv |  2023 | - | - |
+| [**Low-temperature plasma simulation based on physics-informed neural networks**](https://arxiv.org/pdf/2206.15294)) <br> |  Phys. Fluids |  2022 | - | - |
+| [**Fourier neural operator for plasma modelling**](https://arxiv.org/pdf/2302.06542.pdf)) <br> |  arXiv |  2023 | - | - |
 
 ---
 ## Frontier Models
