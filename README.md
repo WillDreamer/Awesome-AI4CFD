@@ -1,6 +1,6 @@
 # Awesome-AI4CFD
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/lupantech/dl4math) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Survey](https://img.shields.io/badge/Survey-AI4CFD-blue)](https://github.com/WillDreamer/Awesome-AI4CFD) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -49,7 +49,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/pdebench/PDEBench) <br> [**PDEBench**](https://arxiv.org/abs/2210.07182) <br> | NeurIPS 2022 | 2022-10-13 | [GitHub](https://github.com/pdebench/PDEBench) | Local Demo |
 |![Star](https://img.shields.io/github/stars/lululxvi/deepxde.svg?style=social&label=Star) <br> [**DeepXDE: A Deep Learning Library for Solving Differential Equations**](https://epubs.siam.org/doi/pdf/10.1137/19M1274067) <br> | SIAM Review | 2021-01 | [GitHub](https://github.com/lululxvi/deepxde) | - |
-|![Star](https://img.shields.io/github/stars/Mohamedelrefaie/DrivAerNet.svg?style=social&label=Star) <br> [**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design and Graph-Based Drag Prediction**](https://arxiv.org/abs/2403.08055) <br> | Arxiv | 2024-05 | [GitHub](https://github.com/Mohamedelrefaie/DrivAerNet) | - |
+|![Star](https://img.shields.io/github/stars/Mohamedelrefaie/DrivAerNet.svg?style=social&label=Star) <br> [**DrivAerNet: A Parametric Car Dataset for Data-Driven Aerodynamic Design and Graph-Based Drag Prediction**](https://arxiv.org/abs/2403.08055) <br> | arXiv | 2024-05 | [GitHub](https://github.com/Mohamedelrefaie/DrivAerNet) | - |
 |![Star](https://img.shields.io/github/stars/PolymathicAI/the_well.svg?style=social&label=Star) <br> [**The Well: a Large-Scale Collection of Diverse Physics Simulations for Machine Learning**](https://arxiv.org/abs/2412.00568) <br> | NeurIPS 2024 DB Track | 2024-12 | [GitHub](https://github.com/PolymathicAI/the_well) | - |
 
 
@@ -64,9 +64,9 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|![Star](https://img.shields.io/github/stars/Rose-STL-Lab/Turbulent-Flow-Net.svg?style=social&label=Star) <br> [**Towards Physics-informed Deep Learning for Turbulent Flow Prediction**] <br>  | KDD 2020 | 2020-08-20 | [Github](https://github.com/Rose-STL-Lab/Turbulent-Flow-Net) | - |
+|![Star](https://img.shields.io/github/stars/Rose-STL-Lab/Turbulent-Flow-Net.svg?style=social&label=Star) <br> [**Towards Physics-informed Deep Learning for Turbulent Flow Prediction**](https://arxiv.org/abs/1911.08655) <br>  | KDD 2020 | 2020-08-20 | [Github](https://github.com/Rose-STL-Lab/Turbulent-Flow-Net) | - |
 |![Star](https://img.shields.io/github/stars/Rose-STL-Lab/Equivariant-Net.svg?style=social&label=Star) <br> [**Incorporating Symmetry into Deep Dynamics Models for Improved Generalization**](https://arxiv.org/pdf/2002.03061.pdf) <br> | ICLR 2021 | 2021-03-15 | [Github](https://github.com/Rose-STL-Lab/Equivariant-Net) |
-| <br> [**Approximately Equivariant Networks for Imperfectly Symmetric Dynamics**](https://proceedings.mlr.press/v162/wang22aa/wang22aa.pdf) <br> | ICML 2022 | 2022-06-28 | [Github](https://github.com/Rose-STL-Lab/Approximately-Equivariant-Nets) |
+| [**Approximately Equivariant Networks for Imperfectly Symmetric Dynamics**](https://proceedings.mlr.press/v162/wang22aa/wang22aa.pdf) <br> | ICML 2022 | 2022-06-28 | [Github](https://github.com/Rose-STL-Lab/Approximately-Equivariant-Nets) |
 
 #### On Unstructured Mesh
 
@@ -76,8 +76,8 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |<!--MGN--> ![Star](https://img.shields.io/github/stars/google-deepmind/deepmind-research.svg?style=social&label=Star) <br> [**Learning Mesh-Based Simulation with Graph Networks**](https://arxiv.org/abs/2010.03409) | ICLR 2021 <br>| 2021-06-18 | [Github](https://github.com/google-deepmind/deepmind-research/tree/master/meshgraphnets) | [Video](https://sites.google.com/view/meshgraphnets) |
 |<!--MP-PDE--> ![Star](https://img.shields.io/github/stars/brandstetter-johannes/MP-Neural-PDE-Solvers.svg?style=social&label=Star) <br> [**Message Passing Neural PDE Solvers**](https://arxiv.org/abs/2202.03376)<br> | ICLR 2022 | 2023-03-20 | [Github](https://github.com/brandstetter-johannes/MP-Neural-PDE-Solvers) | Local Demo|
 |![Star](https://img.shields.io/github/stars/jaggbow/magnet.svg?style=social&label=Star) <br> [**MAgNet:Mesh Agnostic Neural PDE Solver**](https://arxiv.org/pdf/2210.05495.pdf)<br> | NeurIPS 2022 | 2023-03-20 | [Github](https://github.com/jaggbow/magnet) | Local Demo|
-|<br>[**CARE:Modeling Interacting Dynamics Under Temporal Environmental Variation**](https://openreview.net/attachment?id=lwg3ohkFRv&name=pdf)<br> | NeurIPS 2023 | 2023-12-15 | - | - |
-|<br>[**Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer**](https://openreview.net/forum?id=90yw2uM6J5)<br> | ICLR 2024 | 2024-03-26 | [Github](https://github.com/yuyudeep/hcmt) | - |
+| [**CARE:Modeling Interacting Dynamics Under Temporal Environmental Variation**](https://openreview.net/attachment?id=lwg3ohkFRv&name=pdf)<br> | NeurIPS 2023 | 2023-12-15 | - | - |
+|![Star](https://img.shields.io/github/stars/yuyudeep/hcmt.svg?style=social&label=Star) <br>[**Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer**](https://openreview.net/forum?id=90yw2uM6J5)<br> | ICLR 2024 | 2024-03-26 | [Github](https://github.com/yuyudeep/hcmt) | - |
 |![Star](https://img.shields.io/github/stars/anthonyzhou-1/ldm_pdes.svg?style=social&label=Star)<br>[**Text2PDE: Latent Diffusion Models for Accessible Physics Simulation**](https://openreview.net/forum?id=Nb3a8aUGfj)<br> | ICLR 2025 | 2024-10-02 | [Github](https://github.com/anthonyzhou-1/ldm_pdes) | - |
 
 #### On Lagrangian Particle
@@ -86,7 +86,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/isl-org/DeepLagrangianFluids.svg?style=social&label=Star)<br>[**LAGRANGIAN FLUID SIMULATION WITH CONTINUOUS CONVOLUTIONS**](https://openreview.net/pdf?id=B1lDoJSYDH)<br> | ICLR2020 | 2019-09-25 | [Github](https://github.com/isl-org/DeepLagrangianFluids) | - |
 |![Star](https://img.shields.io/github/stars/BaratiLab/FGN.svg?style=social&label=Star)<br>[**Graph neural network accelerated lagrangian fluid simulation**](https://dl.acm.org/doi/abs/10.1016/j.cag.2022.02.004)<br> | Comput Graph | 2022-04-01 | [Github](https://github.com/BaratiLab/FGN) | - |
-| <br>[**Fast Fluid Simulation via Dynamic Multi-Scale Gridding**](https://ojs.aaai.org/index.php/AAAI/article/view/25255/25027)<br> | AAAI 2023 | 2023-06-26 | - | - |
+| [**Fast Fluid Simulation via Dynamic Multi-Scale Gridding**](https://ojs.aaai.org/index.php/AAAI/article/view/25255/25027)<br> | AAAI 2023 | 2023-06-26 | - | - |
 
 ---
 
@@ -96,10 +96,10 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|![Star](https://img.shields.io/github/stars/placeholder-for-link-to-DeepONet-repo.svg?style=social&label=Star) <br> [**Learning nonlinear operators via deeponet based on the universal approximation theorem of operators.**](https://www.nature.com/articles/s42256-021-00302-5.pdf) | Nature Machine Intelligence | 2021 | [Github](https://github.com/lululxvi/deeponet) |  |
-|<br> [**Nomad: Nonlinear manifold decoders for operator learning.**](https://arxiv.org/pdf/2206.03551)<br> | NeurIPS | 2022 | - |  |
-| ![Star](https://img.shields.io/github/stars/lululxvi/deepxde.svg?style=social&label=Star) <br> [**Fourier-mionet: Fourier enhanced multiple-input neural operators for multiphase modeling of geological carbon sequestration.**](https://arxiv.org/pdf/2303.04778v1.pdf) <br> | J. Comput. Phy. | Date Not Provided | [Github](https://github.com/lululxvi/deepxde) | - |
-|<br> [**Hyperdeeponet: learning operator with complex target function space using the limited resources via hypernetwork.**](https://arxiv.org/pdf/2312.15949v1.pdf)<br> |  ICLR | 2023 | - |  |
+| ![Star](https://img.shields.io/github/stars/lululxvi/deeponet.svg?style=social&label=Star) <br> [**Learning nonlinear operators via deeponet based on the universal approximation theorem of operators**](https://www.nature.com/articles/s42256-021-00302-5.pdf) | Nature Machine Intelligence | 2021 | [Github](https://github.com/lululxvi/deeponet) |  |
+| [**Nomad: Nonlinear manifold decoders for operator learning**](https://arxiv.org/pdf/2206.03551)<br> | NeurIPS | 2022 | - |  |
+| ![Star](https://img.shields.io/github/stars/lululxvi/deepxde.svg?style=social&label=Star) <br> [**Fourier-mionet: Fourier enhanced multiple-input neural operators for multiphase modeling of geological carbon sequestration**](https://arxiv.org/pdf/2303.04778v1.pdf) <br> | J. Comput. Phy. | Date Not Provided | [Github](https://github.com/lululxvi/deepxde) | - |
+| [**Hyperdeeponet: learning operator with complex target function space using the limited resources via hypernetwork**](https://arxiv.org/pdf/2312.15949v1.pdf)<br> |  ICLR | 2023 | - |  |
 
 ---
 
@@ -107,11 +107,11 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 | Title | Venue | Date | Code | Demo |
 |:------|:-----:|:----:|:----:|:----:|
-| <br> [**Multipole graph neural operator for parametric PDEs**](https://arxiv.org/abs/2006.09535) | NeurIPS  | 2020 | - | - |
-| <br> [**Geometry-informed neural operator for large-scale 3d pdes**](https://arxiv.org/pdf/2309.00583) | NeurIPS  | 2023 | - | - |
-| ![Star](https://img.shields.io/github/stars/samholt/NeuralLaplace.svg?style=social&label=Star) <br> [**LNO: Laplace neural operator for solving differential equations.**](https://arxiv.org/pdf/2303.10528) | Arxiv  | 2023 | [Github](https://github.com/samholt/NeuralLaplace) | [Video](https://www.youtube.com/watch?v=o799FwH85cw) |
-| ![Star](https://img.shields.io/github/stars/Koopman-Laboratory/KoopmanLab.svg?style=social&label=Star) <br> [**Koopman Neural Operator as a mesh-free solver of non-linear PDEs.**](https://arxiv.org/abs/2301.10022) | Arxiv  | 2023 | [Github](https://github.com/Koopman-Laboratory/KoopmanLab) | - |
-| ![Star](https://img.shields.io/github/stars/liuyangmage/in-context-operator-networks.svg?style=social&label=Star) <br> [**In-context operator learning for differential equation problems.**](https://placeholder-for-link-to-KNO-paper)<br> | PNAS | 2023 | [Github](https://github.com/liuyangmage/in-context-operator-networks)| - |
+| [**Multipole graph neural operator for parametric PDEs**](https://arxiv.org/abs/2006.09535) | NeurIPS  | 2020 | - | - |
+| [**Geometry-informed neural operator for large-scale 3d pdes**](https://arxiv.org/pdf/2309.00583) | NeurIPS  | 2023 | - | - |
+| ![Star](https://img.shields.io/github/stars/samholt/NeuralLaplace.svg?style=social&label=Star) <br> [**LNO: Laplace neural operator for solving differential equations**](https://arxiv.org/pdf/2303.10528) | arXiv  | 2023 | [Github](https://github.com/samholt/NeuralLaplace) | [Video](https://www.youtube.com/watch?v=o799FwH85cw) |
+| ![Star](https://img.shields.io/github/stars/Koopman-Laboratory/KoopmanLab.svg?style=social&label=Star) <br> [**Koopman Neural Operator as a mesh-free solver of non-linear PDEs**](https://arxiv.org/abs/2301.10022) | arXiv  | 2023 | [Github](https://github.com/Koopman-Laboratory/KoopmanLab) | - |
+| ![Star](https://img.shields.io/github/stars/liuyangmage/in-context-operator-networks.svg?style=social&label=Star) <br> [**In-context operator learning for differential equation problems**](https://placeholder-for-link-to-KNO-paper)<br> | PNAS | 2023 | [Github](https://github.com/liuyangmage/in-context-operator-networks)| - |
 
 ---
 
@@ -119,10 +119,10 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 | Title | Venue | Date | Code | Demo |
 |:------|:-----:|:----:|:----:|:----:|
-| ![Star](https://img.shields.io/github/stars/khassibi/fourier-neural-operator.svg?style=social&label=Star) <br> [**Fourier neural operator for parametric partial differential equations.**](https://arxiv.org/pdf/2010.08895) | ICLR  | 2021 | [Github](https://github.com/khassibi/fourier-neural-operator) | [Video](https://zongyi-li.github.io/blog/2020/fourier-pde/) |
+| ![Star](https://img.shields.io/github/stars/khassibi/fourier-neural-operator.svg?style=social&label=Star) <br> [**Fourier neural operator for parametric partial differential equations**](https://arxiv.org/pdf/2010.08895) | ICLR  | 2021 | [Github](https://github.com/khassibi/fourier-neural-operator) | [Video](https://zongyi-li.github.io/blog/2020/fourier-pde/) |
 | ![Star](https://img.shields.io/github/stars/alasdairtran/fourierflow.svg?style=social&label=Star) <br> [**Factorized fourier neural operators**](https://arxiv.org/abs/2111.13802) | ICLR  | 2023 | [Github](https://github.com/alasdairtran/fourierflow) | - |
 | ![Star](https://img.shields.io/github/stars/microsoft/cliffordlayers) <br> [**Clifford neural layers for pde modeling**](https://arxiv.org/pdf/2209.04934) | ICLR  | 2023 | [Github](https://github.com/microsoft/cliffordlayers/tree/main) | - |
-| <br> [**Geometry-informed neural operator for large-scale 3d pdes.**](https://arxiv.org/abs/2309.00583) | NeurIPS  | 2023 | -| - |
+| [**Geometry-informed neural operator for large-scale 3d pdes.**](https://arxiv.org/abs/2309.00583) | NeurIPS  | 2023 | -| - |
 
 ---
 
@@ -133,10 +133,10 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 | Title | Venue | Date | Code | Demo |
 |:------|:-----:|:----:|:----:|:----:|
 | ![Star](https://img.shields.io/github/stars/maziarraissi/PINNs.svg?style=social&label=Star) <br> [**Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear PDEs**](https://placeholder-for-link-to-PINN-paper) | JCP(Journal of Computational Physics) | 2019 | [Github](https://github.com/maziarraissi/PINNs) | - |
-| ![Star](https://img.shields.io/github/stars/ZhaoChenCivilSciML/EQDiscovery-1.svg?style=social&label=Star) <br> [**Physics-informed learning of governing equations from scarce data.**](https://arxiv.org/abs/2005.03448) | Nature Communications | 2021 | [Github](https://github.com/ZhaoChenCivilSciML/EQDiscovery-1) | - |
+| ![Star](https://img.shields.io/github/stars/ZhaoChenCivilSciML/EQDiscovery-1.svg?style=social&label=Star) <br> [**Physics-informed learning of governing equations from scarce data**](https://arxiv.org/abs/2005.03448) | Nature Communications | 2021 | [Github](https://github.com/ZhaoChenCivilSciML/EQDiscovery-1) | - |
 | ![Star](https://img.shields.io/github/stars/Scien42/NSFnet.svg?style=social&label=Star) <br> [**NSFnets (Navier-Stokes flow nets): Physics-informed neural networks for the incompressible Navier-Stokes equations**](https://arxiv.org/abs/2003.06496) <br> | JCP(Journal of Computational Physics) | 2021 | [Github](https://github.com/Scien42/NSFnet) | - |
-| <br> [**Meta-auto-decoder for solving parametric partial differential equations.**](https://arxiv.org/pdf/2111.08823) <br> | NeurIPS | 2022 |- | - |
-|<br>  [**Nas-pinn: neural architecture search-guided physics-informed neural network for solving pdes.**](https://arxiv.org/pdf/2305.10127) <br> | JCP(Journal of Computational Physics) | 2024 | - | - | 
+| [**Meta-auto-decoder for solving parametric partial differential equations**](https://arxiv.org/pdf/2111.08823) <br> | NeurIPS | 2022 |- | - |
+| [**Nas-pinn: neural architecture search-guided physics-informed neural network for solving pdes**](https://arxiv.org/pdf/2305.10127) <br> | JCP(Journal of Computational Physics) | 2024 | - | - | 
 
 ---
 
@@ -158,13 +158,13 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/google/data-driven-discretization-1d) <br> [**Learning data-driven discretizations for partial differential equations.**](https://arxiv.org/abs/1808.04930) <br>| PNAS | 2019 | [Github](https://github.com/google/data-driven-discretization-1d) | - |
-|  <br> [**Machine learning accelerated computational fluid dynamics.**](https://arxiv.org/abs/2102.01010) <br>| PNAS | 2021 | - | - |
-| ![Star](https://img.shields.io/github/stars/tum-pbs/differentiable-piso.svg?style=social&label=Star) <br> [**Learned turbulence modelling with differentiable fluid solvers: physics-based loss functions and optimisation horizons.**](https://arxiv.org/abs/2202.06988) <br>| JFM(Journal of Fluid Mechanics) | 2022 | [Github](https://github.com/tum-pbs/differentiable-piso) | - |
-| <br> [**Machine learning design of volume of fluid schemes for compressible flows.**](https://www.sciencedirect.com/science/article/abs/pii/S0021999120300498) <br>| JCP(Journal of Computational Physics) | 2020 | - | - |
-| ![Star](https://img.shields.io/github/stars/tianhanz/DNN-Models-for-Chemical-Kinetics.svg?style=social&label=Star) <br> [**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**](https://arxiv.org/abs/2201.03549) <br>|  | 2022 | [Github](https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics) | - |
-| ![Star](https://img.shields.io/github/stars/Edward-Sun/TSM-PDE.svg?style=social&label=Star) <br> [**A neural pde solver with temporal stencil modeling.**](https://arxiv.org/abs/2302.08105) <br>| arXiv. | 2023 | [Github](https://github.com/Edward-Sun/TSM-PDE) | - |
-| <br> [**Scalable projection-based RO models for large multiscale fluid systems.**](https://ui.adsabs.harvard.edu/link_gateway/2023AIAAJ..61.4499W/PUB_HTML) <br>| AIAA | 2023 | - | - |
+| ![Star](https://img.shields.io/github/stars/google/data-driven-discretization-1d) <br> [**Learning data-driven discretizations for partial differential equations**](https://arxiv.org/abs/1808.04930) <br>| PNAS | 2019 | [Github](https://github.com/google/data-driven-discretization-1d) | - |
+| [**Machine learning accelerated computational fluid dynamics**](https://arxiv.org/abs/2102.01010) <br>| PNAS | 2021 | - | - |
+| ![Star](https://img.shields.io/github/stars/tum-pbs/differentiable-piso.svg?style=social&label=Star) <br> [**Learned turbulence modelling with differentiable fluid solvers: physics-based loss functions and optimisation horizons**](https://arxiv.org/abs/2202.06988) <br>| JFM(Journal of Fluid Mechanics) | 2022 | [Github](https://github.com/tum-pbs/differentiable-piso) | - |
+| [**Machine learning design of volume of fluid schemes for compressible flows**](https://www.sciencedirect.com/science/article/abs/pii/S0021999120300498) <br>| JCP(Journal of Computational Physics) | 2020 | - | - |
+| ![Star](https://img.shields.io/github/stars/tianhanz/DNN-Models-for-Chemical-Kinetics.svg?style=social&label=Star) <br> [**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**](https://arxiv.org/abs/2201.03549) <br>| arXiv | 2022 | [Github](https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics) | - |
+| ![Star](https://img.shields.io/github/stars/Edward-Sun/TSM-PDE.svg?style=social&label=Star) <br> [**A neural pde solver with temporal stencil modeling**](https://arxiv.org/abs/2302.08105) <br>| arXiv | 2023 | [Github](https://github.com/Edward-Sun/TSM-PDE) | - |
+| [**Scalable projection-based RO models for large multiscale fluid systems**](https://ui.adsabs.harvard.edu/link_gateway/2023AIAAJ..61.4499W/PUB_HTML) <br>| AIAA | 2023 | - | - |
 
 ---
 
@@ -174,7 +174,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/danielgreenfeld3/Learning-to-optimize-multigrid-solvers) <br> [**Learning to simulate complex physics with graph networks**](https://arxiv.org/pdf/2002.09405) <br>| ICML | 2020 | [Github](https://github.com/google-deepmind/deepmind-research/tree/master/learning_to_simulate) | [video](sites.google.com/view/learning-to-simulate) |
 | ![Star](https://img.shields.io/github/stars/danielgreenfeld3/Learning-to-optimize-multigrid-solvers) <br> [**Learning to optimize multigrid pde solvers**](https://arxiv.org/pdf/1902.10248) <br>| ICML | 2019 | [Github](https://github.com/danielgreenfeld3/Learning-to-optimize-multigrid-solvers) | - |
-| ![Star](https://img.shields.io/github/stars/ilayluz/learning-amg.svg?style=social&label=Star) <br> [**Learning algebraic multigrid using graph neural networks.**](https://arxiv.org/pdf/2003.05744) <br>| ICML | 2020 | [Github](https://github.com/ilayluz/learning-amg) | - |
+| ![Star](https://img.shields.io/github/stars/ilayluz/learning-amg.svg?style=social&label=Star) <br> [**Learning algebraic multigrid using graph neural networks**](https://arxiv.org/pdf/2003.05744) <br>| ICML | 2020 | [Github](https://github.com/ilayluz/learning-amg) | - |
 
 ---
 
@@ -182,10 +182,10 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|<br> [**Using ML to augment coarse-grid CFD simulations.**](https://arxiv.org/pdf/2010.00072) <br>| arXiv. | 2020 |-| - |
+| [**Using ML to augment coarse-grid CFD simulations**](https://arxiv.org/pdf/2010.00072) <br>| arXiv | 2020 |-| - |
 | ![Star](https://img.shields.io/github/stars/tum-pbs/Solver-in-the-Loop.svg?style=social&label=Star) <br> [**Solver-in-the-loop:Learning from differentiable physics to interact with iterative pde-solvers**](https://arxiv.org/abs/2007.00016) <br>|NeuraIPS  | 2020 | [Github](https://github.com/tum-pbs/Solver-in-the-Loop) | - |
 | ![Star](https://img.shields.io/github/stars/locuslab/cfd-gcn.svg?style=social&label=Star) <br> [**Combining differentiable pde solvers and graph neural networks for fluid flow prediction**](https://arxiv.org/pdf/2007.04439) <br>| ICML | 2020 | [Github](https://github.com/locuslab/cfd-gcn) | - |
-| <br> [**A deep learning based accelerator for fluid simulations**](https://arxiv.org/pdf/2005.04485) <br>| ICS | 2020 | - | - |
+| [**A deep learning based accelerator for fluid simulations**](https://arxiv.org/pdf/2005.04485) <br>| ICS | 2020 | - | - |
 
 ---
 
@@ -197,7 +197,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/aerorobotics/neural-fly.svg?style=social&label=Star)<br> [**Neural-fly enables rapid learning for agile flight in strong winds**](https://arxiv.org/pdf/2205.06908) <br> | Science Robotics | 2022 | [Github](https://github.com/aerorobotics/neural-fly) | - |
 |![Star](https://img.shields.io/github/stars/areenraj/transonic-flow-supercritical-airfoil.svg?style=social&label=Star)<br> [**Prediction of transonic flow over supercritical airfoils using geometric encoding and deep-learning strategies**](https://arxiv.org/pdf/2303.03695) <br> | Physics of Fluids |2023 | [Github](https://github.com/areenraj/transonic-flow-supercritical-airfoil) | - |
-|<br> [**Shock wave prediction in transonic flow fields using domain-informed probabilistic deep learning.**](https://www.researchgate.net/profile/Bilal-Mufti-3/publication/377320644_Shock_wave_prediction_in_transonic_flow_fields_using_domain-informed_probabilistic_deep_learning/links/65a477e0af617b0d8744e8ea/Shock-wave-prediction-in-transonic-flow-fields-using-domain-informed-probabilistic-deep-learning.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) <br> | Physics of Fluids | 2024 | - | - |
+| [**Shock wave prediction in transonic flow fields using domain-informed probabilistic deep learning**](https://www.researchgate.net/profile/Bilal-Mufti-3/publication/377320644_Shock_wave_prediction_in_transonic_flow_fields_using_domain-informed_probabilistic_deep_learning/links/65a477e0af617b0d8744e8ea/Shock-wave-prediction-in-transonic-flow-fields-using-domain-informed-probabilistic-deep-learning.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) <br> | Physics of Fluids | 2024 | - | - |
 
 ---
 
@@ -205,8 +205,8 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|![Star](https://img.shields.io/github/stars/DENG-MIT/Stiff-PINN)<br> [**Stiff-pinn: Physics-informed neural network for stiff chemical kinetics**]([https:/](https://arxiv.org/pdf/2011.04520)) <br> | The Journal of Physical Chemistry A | 2021 | [Github](https://github.com/DENG-MIT/Stiff-PINN)  | - |
-|<br> [**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**](https://arxiv.org/pdf/2201.03549) <br> | Combustion and Flame | 2022 | [Github](https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics) | - |
+|![Star](https://img.shields.io/github/stars/DENG-MIT/Stiff-PINN)<br> [**Stiff-pinn: Physics-informed neural network for stiff chemical kinetics**](https://arxiv.org/pdf/2011.04520)) <br> | The Journal of Physical Chemistry A | 2021 | [Github](https://github.com/DENG-MIT/Stiff-PINN)  | - |
+| [**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**](https://arxiv.org/pdf/2201.03549) <br> | Combustion and Flame | 2022 | [Github](https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics) | - |
 
 ---
 
@@ -214,12 +214,12 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|<br> [**FourCastNet: A global data-driven HR weather model using AFNO**](https://arxiv.org/pdf/2202.11214) <br> | arXiv. | 2022 | - | - |
-|![Star](https://img.shields.io/github/stars/198808xc/Pangu-Weather)<br> [**Accurate medium-range global weather forecasting with 3d nns.**](https://www.nature.com/articles/s41586-023-06185-3.pdf) <br> | Nature | 2023 | [Github](https://github.com/198808xc/Pangu-Weather) | - |
+| [**FourCastNet: A global data-driven HR weather model using AFNO**](https://arxiv.org/pdf/2202.11214) <br> | arXiv | 2022 | - | - |
+|![Star](https://img.shields.io/github/stars/198808xc/Pangu-Weather)<br> [**Accurate medium-range global weather forecasting with 3d nns**](https://www.nature.com/articles/s41586-023-06185-3.pdf) <br> | Nature | 2023 | [Github](https://github.com/198808xc/Pangu-Weather) | - |
 |![Star](https://img.shields.io/github/stars/google-deepmind/graphcast)<br>  [**Learning skillful medium-range global weather forecasting**](https://arxiv.org/pdf/2212.12794) <br> | Science | 2023 | [Github](https://github.com/google-deepmind/graphcast) | - |
-|<br> [**Evaluation of Deep Neural Operator models toward ocean forecasting**](https://arxiv.org/pdf/2308.11814) <br> | OCEANS | 2023 | - | - |
+| [**Evaluation of Deep Neural Operator models toward ocean forecasting**](https://arxiv.org/pdf/2308.11814) <br> | OCEANS | 2023 | - | - |
 |![Star](https://img.shields.io/github/stars/gegewen/ufno)<br> [**U-fno an enhanced FNO-based DL model for multiphase flow**](https://arxiv.org/pdf/2109.03697) <br> | AWR | 2022 | [Github](https://github.com/gegewen/ufno) | - |
-|<br> [**Fourier-mionet: Fourier-enhanced multiple-input neural operators for multiphase modeling of geological carbon sequestration.**](https://arxiv.org/pdf/2303.04778) <br> | arXiv. | 2023 | - | - |
+| [**Fourier-mionet: Fourier-enhanced multiple-input neural operators for multiphase modeling of geological carbon sequestration**](https://arxiv.org/pdf/2303.04778) <br> | arXiv | 2023 | - | - |
 
 ---
 
@@ -227,9 +227,9 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|<br> [**Simulating progressive intramural damage leading to aortic dissection using DeepONet: an operator–regression neural network**](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2021.0670) <br> | Journal of The Royal Society Interface | 2022 | - | - |
-|<br> [**Improving microstructural integrity, interstitial fluid, and blood microcirculation images.**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.29753) <br> |  JSMRM |  2023 | - | - |
-|<br> [**Multiple case PINN for biomedical tube flows**](https://arxiv.org/pdf/2309.15294.pdf) <br> |  arXiv. |  2023 | - | - |
+| [**Simulating progressive intramural damage leading to aortic dissection using DeepONet: an operator–regression neural network**](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2021.0670) <br> | Journal of The Royal Society Interface | 2022 | - | - |
+| [**Improving microstructural integrity, interstitial fluid, and blood microcirculation images**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.29753) <br> |  JSMRM |  2023 | - | - |
+| [**Multiple case PINN for biomedical tube flows**](https://arxiv.org/pdf/2309.15294.pdf) <br> |  arXiv |  2023 | - | - |
 
 ---
 
@@ -237,8 +237,8 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|<br> [**Low-temperature plasma simulation based on physics-informed neural networks.**]([https://](https://arxiv.org/pdf/2206.15294)) <br> |  Phys. Fluids |  2022 | - | - |
-|<br> [**Fourier neural operator for plasma modelling**]([https://](https://arxiv.org/pdf/2302.06542.pdf)) <br> |  arXiv. |  2023 | - | - |
+| [**Low-temperature plasma simulation based on physics-informed neural networks**](https://arxiv.org/pdf/2206.15294) <br> |  Phys. Fluids |  2022 | - | - |
+| [**Fourier neural operator for plasma modelling**](https://arxiv.org/pdf/2302.06542.pdf) <br> |  arXiv |  2023 | - | - |
 
 ---
 ## Frontier Models
@@ -248,7 +248,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/camlab-ethz/poseidon.svg?style=social&label=Star)<br> [**Poseidon: Efficient Foundation Models for PDEs**](https://arxiv.org/abs/2405.19101) <br> | NeurIPS 2024 | 2024 | [Github](https://github.com/camlab-ethz/poseidon) | - |
-|<br> [**Self-supervised Pretraining for Partial Differential Equations**](https://arxiv.org/abs/2407.06209) <br> | Arxiv 2024 | 2024 | - | - |
+| [**Self-supervised Pretraining for Partial Differential Equations**](https://arxiv.org/abs/2407.06209) <br> | arXiv | 2024 | - | - |
 
 ---
 ### Generative Models
