@@ -119,6 +119,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 
 | Title | Venue | Date | Code | Demo |
 |:------|:-----:|:----:|:----:|:----:|
+| <br> [**Physics-informed neural operator for learning partial differential equations**](https://dl.acm.org/doi/full/10.1145/3648506) | ACM/IMS Journal of Data Science  | 2025 | - | - | 
 | ![Star](https://img.shields.io/github/stars/khassibi/fourier-neural-operator.svg?style=social&label=Star) <br> [**Fourier neural operator for parametric partial differential equations.**](https://arxiv.org/pdf/2010.08895) | ICLR  | 2021 | [Github](https://github.com/khassibi/fourier-neural-operator) | [Video](https://zongyi-li.github.io/blog/2020/fourier-pde/) |
 | ![Star](https://img.shields.io/github/stars/alasdairtran/fourierflow.svg?style=social&label=Star) <br> [**Factorized fourier neural operators**](https://arxiv.org/abs/2111.13802) | ICLR  | 2023 | [Github](https://github.com/alasdairtran/fourierflow) | - |
 | ![Star](https://img.shields.io/github/stars/microsoft/cliffordlayers) <br> [**Clifford neural layers for pde modeling**](https://arxiv.org/pdf/2209.04934) | ICLR  | 2023 | [Github](https://github.com/microsoft/cliffordlayers/tree/main) | - |
